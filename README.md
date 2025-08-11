@@ -51,10 +51,10 @@ Matplotlib – para visualización de datos
 ## 📂 Estructura del repositorio
 
 ##### 📁 alura-store-analisis
-│-- 📄 README.md         → Descripción del proyecto  
-│-- 📄 analisis.ipynb    → Notebook con el desarrollo del análisis  
-│-- 📄 datos.csv         → Datos originales de las tiendas  
-│-- 📁 img               → Carpeta con gráficos generados  
+│-- 📄 README.md                 → Descripción del proyecto  
+│-- 📄 analisis.ipynb            → Notebook con el desarrollo del análisis  
+│-- 📁 Base-de-datos-challenge1  → Carpeta con los datos de las tiendas  
+│-- 📁 img                       → Carpeta con gráficos generados  
 
 
 
