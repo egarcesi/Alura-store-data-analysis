@@ -6,13 +6,21 @@ Para ello, se analizan datos de ventas, rendimiento y reseñas de las 4 tiendas 
 
 
 
-## 🛠️ Alura-store-data-analysis
+## 🛠️ Tecnologías y librerías utilizadas
 
-Python
+Python – Lenguaje principal para el procesamiento y análisis de datos.
 
-Pandas – para carga y manipulación de datos CSV
+Pandas – Para carga, limpieza, manipulación y análisis de datos en formato CSV.
 
-Matplotlib – para visualización de datos
+Matplotlib – Para creación de gráficos y visualizaciones personalizadas.
+
+Seaborn – Para visualización estadística con estilos y paletas de colores mejoradas.
+
+Folium – Para visualización geoespacial e interacción con mapas dinámicos.
+
+folium.plugins.MarkerCluster – Para agrupar marcadores en mapas y mejorar la legibilidad.
+
+Google Colab – Para desarrollo, ejecución y documentación del análisis paso a paso.
 
 
 
@@ -52,9 +60,8 @@ Matplotlib – para visualización de datos
 
 ##### 📁 alura-store-analisis
 │-- 📄 README.md                 → Descripción del proyecto  
-│-- 📄 analisis.ipynb            → Notebook con el desarrollo del análisis  
+│-- 📄 AluraStore_Analisis.ipynb            → Notebook con el desarrollo del análisis  
 │-- 📁 Base-de-datos-challenge1  → Carpeta con los datos de las tiendas  
-│-- 📁 img                       → Carpeta con gráficos generados  
 
 
 
@@ -79,9 +86,9 @@ Al final del análisis se presenta:
    
     pip install pandas matplotlib
  
-##### 3. Abrir el archivo Jupyter Notebook:
+##### 3. Abrir el archivo Google Colab:
 
-    jupyter notebook analisis.ipynb
+    Google Colab analisis.ipynb
 
 
 
