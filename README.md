@@ -88,7 +88,7 @@ Al final del análisis se presenta:
  
 ##### 3. Abrir el archivo Google Colab:
 
-    Google Colab analisis.ipynb
+    Google Colab AluraStore_Analisis.ipynb
 
 
 
